@@ -21,7 +21,11 @@ Good At
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+Tech Stack
+-------------
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,linux,kotlin,aws,shell"/>
+</p>
 
 GitHub Streak
 ---------------
@@ -29,9 +33,16 @@ GitHub Streak
 <img src="https://streak-stats.demolab.com?user=TOMCSIMON&theme=github-dark&hide_border=true"/>
 </p>
 
-Tech Stack
--------------
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,linux,kotlin,aws,shell"/>
-</p>
+
+Connect with Me
+--------------
+<a href="https://www.linkedin.com/in/tom-c-simon/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:tomcsimon01@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://x.com/tomcsimon" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="48" height="48"/>
+</a>
 
