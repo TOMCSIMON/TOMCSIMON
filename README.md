@@ -1,13 +1,13 @@
-## Hi I'm Tom 👋
+# Hi, I'm Tom 👋
+
+### Full Stack Developer | Java • Spring Boot • React
 
 About
------
-Full Stack Developer | java spring-boot React 
+----- 
+Full Stack Developer specializing in Java, Spring Boot, React, and PostgreSQL. Passionate about building scalable applications and solving real-world problems. I enjoy learning new technologies, writing clean code, and approaching every challenge with persistence, curiosity, and a growth mindset.
 
 Good At
 -------
-## 🛠 Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
