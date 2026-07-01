@@ -1,12 +1,6 @@
 ## Hi I'm Tom 👋
 
-Full Stack Developer; | java.spring-boot.React;
-
-🌱 Currently learning Spring Boot & React
-
-💻 Passionate about Backend Development
-
-🚀 Building projects every wee
+Full Stack Developer | java spring-boot React 
 <!--
 **TOMCSIMON/TOMCSIMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
