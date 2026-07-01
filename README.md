@@ -1,10 +1,11 @@
-# <p align="center"> Hi, I'm Tom 👋 </p>
+<h1 align="center"> Hi I'm Tom 👋" </h1>
 
-# <p align="center"> Full Stack Developer | Java • Spring Boot • React </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=2EA043&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Applications;Keep+knocking+until+the+door+opens"/>
+</p>
 
 About
------ 
+-----
 Full Stack Developer specializing in Java, Spring Boot, React, and PostgreSQL. Passionate about building scalable applications and solving real-world problems. I enjoy learning new technologies, writing clean code, and approaching every challenge with persistence, curiosity, and a growth mindset.
 
 Good At
@@ -20,29 +21,17 @@ Good At
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub Stats
-------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOMCSIMON&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOMCSIMON&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
 
-## GitHub Streak
+
+GitHub Streak
 ---------------
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=TOMCSIMON&theme=github-dark&hide_border=true"/>
 </p>
-<!--
-**TOMCSIMON/TOMCSIMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Tech Stack
+-------------
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,linux,kotlin,aws,shell"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
