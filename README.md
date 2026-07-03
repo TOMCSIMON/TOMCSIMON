@@ -4,9 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=2EA043&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Applications;Keep+knocking+until+the+door+opens"/>
 </p>
 
+
+<br>
+
 About
 -----
 Full Stack Developer specializing in Java, Spring Boot, React, and PostgreSQL. Passionate about building scalable applications and solving real-world problems. I enjoy learning new technologies, writing clean code, and approaching every challenge with persistence, curiosity, and a growth mindset.
+
+
+<br>
 
 Good At
 -------
@@ -21,11 +27,16 @@ Good At
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br>
+
 Tech Stack
 -------------
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,linux,kotlin,aws,shell"/>
 </p>
+
+
+<br>
 
 GitHub Streak
 ---------------
@@ -33,6 +44,8 @@ GitHub Streak
 <img src="https://streak-stats.demolab.com?user=TOMCSIMON&theme=github-dark&hide_border=true"/>
 </p>
 
+
+<br>
 
 Connect with Me
 --------------
