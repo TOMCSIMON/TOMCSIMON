@@ -35,15 +35,7 @@ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,mysql,git,github,linux,kotlin,aws,shell"/>
 </p>
 
-
 <br>
-
-GitHub Streak
----------------
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TOMCSIMON&theme=github-dark&hide_border=true"/>
-</p>
-
 
 <br>
 
