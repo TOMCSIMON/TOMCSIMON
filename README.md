@@ -38,6 +38,9 @@ Tech Stack
 
 <br>
 
+GitHub Contribution
+-------------------
+<img src="https://streak-stats.demolab.com?user=TOMCSIMON&theme=tokyonight" />
 
 <br>
 
